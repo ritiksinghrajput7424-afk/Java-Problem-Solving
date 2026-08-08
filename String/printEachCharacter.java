@@ -1,7 +1,8 @@
 package String;
 
 import java.util.Scanner;
- // Problem 1: Print Each Character
+
+// Problem 1: Print Each Character
 public class printEachCharacter {
     //Method for print each character of the given string
     static void printCh(String s) {
@@ -13,9 +14,10 @@ public class printEachCharacter {
             System.out.println(s.charAt(i));
         }
     }
+
     static void main(String[] args) {
         System.out.println("Please enter a string To print Each Character : ");
-        Scanner sc=new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         printCh(sc.nextLine());
     }
 }
