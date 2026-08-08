@@ -3,7 +3,7 @@ package String;
 import java.util.Scanner;
 
 public class countVowels {
-    //      Problem 2: Count Vowels
+    //      Problem : Count Vowels
     static int countVowels1(String str) {
         //initialize vowel count
         int count = 0;

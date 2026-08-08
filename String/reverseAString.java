@@ -3,7 +3,7 @@ package String;
 import java.util.Scanner;
 
 public class reverseAString {
-    //      Problem 3: Reverse a String
+    //      Problem : Reverse a String
     static void reverse(String str) {
         //Check string length
         int len = str.length();

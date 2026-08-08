@@ -2,7 +2,7 @@ package String;
 
 import java.util.Scanner;
 
-// Problem 1: Print Each Character
+// Problem : Print Each Character
 public class printEachCharacter {
     //Method for print each character of the given string
     static void printCh(String s) {
